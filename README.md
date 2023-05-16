@@ -12,11 +12,7 @@ Before getting started, make sure you have the following:
 
 ## Setup
 
-1. Clone the repository:
-
-   ```bash
-   https://github.com/adrienckr/Prompt-Engineering.git
-   
+1. Clone the repository:   
 
 2. Navigate to the project directory:
 
